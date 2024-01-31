@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /contributions/
 title: "Contributions"
 toc: true
 
