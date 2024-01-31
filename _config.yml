@@ -78,7 +78,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GridexX"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto://arsene582@gmail.com"
 
 defaults:
