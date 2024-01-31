@@ -3,6 +3,21 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi there 👋
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<div style="display: flex; align-items: center; flex-direction:column;">
+
+
+<!-- Picture -->
+![GitHub Avatar](https://github.com/GridexX/gridexx/blob/main/images/user_profile.png?raw=true)
+
+## Hi, I'm Arsène Fougerouse - aka GridexX 👋
+
+### A creative DevOps Engineer
+
+</div>
+
+- 🎨 Self learner, curious and creative in a nutshell.
+- 🌱 Aware of climate change and positive thinker.
+- 📕 I'm currently studying at Polytech Montpellier in DevOps
+- 👨🏻‍💻 I'm working for Mezo as a DevOps Engineer
