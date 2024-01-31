@@ -1,11 +1,35 @@
 ---
-permalink: /contributions/
+permalink: /
 title: "Contributions"
 toc: true
 
 ---
 
 This page is dedicated to the open source projects I have contributed to during my studies and professional career.
+
+## [Watchtower](https://github.com/containrrr/watchtower)
+
+<a href="https://github.com/containrrr/watchtower/network/members">
+  <img src="https://img.shields.io/github/forks/containrrr/watchtower?style=flat" alt="forks" />
+</a>
+<a href="https://github.com/containrrr/watchtower/">
+  <img src="https://img.shields.io/github/stars/containrrr/watchtower?style=flat" alt="stars" />
+</a>
+<a href="https://github.com/containrrr/watchtower/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/containrrr/watchtower" alt="contributors" />
+</a>
+
+A container that watches your other containers and updates them whenever changes are detected. It is developed in Go and is available as a Docker image. I need a JSON logging feature for apersonal project, so I contributed to it.
+
+### Key facts
+
+- Current state : deployed
+- Community : active
+- Technical stack : Go, Docker
+
+### Contributions
+
+- [Enable JSON logging](https://github.com/containrrr/watchtower/pull/1705)
 
 ## [XWiki Helm](https://github.com/xwiki-contrib/xwiki-helm/)
 
@@ -24,9 +48,9 @@ Xwiki Helm is the official repository for the Helm charts of XWiki. I contribute
 
 ### Key facts
 
-- State of the project : deployed
+- Current state : deployed
 - Community : active
-- Stack : Helm, Kubernetes, Docker
+- Technical stack : Helm, Kubernetes, Docker
 
 ### Contributions
 
@@ -50,9 +74,9 @@ Cryptpad is a private-by-design alternative to popular office tools and cloud se
 
 ### Key facts
 
-- State of the project : deployed
+- Current state : deployed
 - Community : active
-- Stack : Helm, Kubernetes, Docker
+- Technical stack : Helm, Kubernetes, Docker
 
 ### Contributions
 
@@ -76,14 +100,37 @@ Aster is a metrics collector that can be used to charge customers based on these
 
 ### Key facts
 
-- State of the project : not deployed
+- Current state : not deployed
 - Community : inactive
-- Stack : Rust, Axum, Typescript, React.js
+- Technical stack : Rust, Axum, Typescript, React.js
 
 ### Contributions
 
 - Create the Billing API in Rust with Axum
 - Create the Frontend Dashboard for the Billing configuration
+
+## [Faast](https://github.com/faast-rt)
+
+<a href="https://github.com/faast-rt/lambo/network/members">
+  <img src="https://img.shields.io/github/forks/faast-rt/lambdo?style=flat" alt="forks" />
+</a>
+<a href="https://github.com/faast-rt/lambo/">
+  <img src="https://img.shields.io/github/stars/faast-rt?style=flat" alt="stars" />
+</a>
+<a href="https://github.com/faast-rt/lambdo/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/faast-rt/lambdo" alt="contributors" />
+</a>
+
+Faast is a serverless runtime that manages microVMs to execute code on demand. It was developped to be in [Polycode](https://gitlab.polytech.umontpellier.fr/do-polycode/backend), a project to train about coding.
+
+### Key facts
+- Current state : not deployed
+- Community : inactive
+- Stack : Rust, Axum, KVM/QEMU, Virtio
+
+### Contributions
+
+I contributed to this project during my studies at Polytech Montpellier. I worked on the agent binary in [Lambdo](https://github.com/faast-rt/lambdo) repository. It is the binaries shipped inside the microVMS that execute the code. It listen on a TCP socket for code to execute and send back the result.
 
 ## [R2Devops Hub](https://gitlab.com/r2devops/hub)
 
@@ -102,9 +149,9 @@ I worked on this project during my 2 years internship at R2Devops.
 
 ### Key facts
 
-- State of the project : deployed
+- Current state : deployed
 - Community : active
-- Stack : GitLab, Docker
+- Technical stack : GitLab, Docker
 
 ### Contributions
 
