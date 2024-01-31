@@ -23,7 +23,7 @@ twitter_username: username
 github_username: GridexX
 minimal_mistakes_skin: dark
 search: true
-
+baseurl: /open-sources-contribution/
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -69,8 +69,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GridexX"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "mailto://arsene582@gmail.com"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:arsene582@gmail.com"
 
 footer:
   links:
@@ -78,8 +78,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GridexX"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
-      url: "mailto://arsene582@gmail.com"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:arsene582@gmail.com"
 
 defaults:
   # _pages
