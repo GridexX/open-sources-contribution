@@ -16,10 +16,7 @@
 title: Open Sources Contributions
 email: arsene582@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  This website is a list of my contributions to the Open Source Community. 
 github_username: GridexX
 minimal_mistakes_skin: dark
 search: false
@@ -31,7 +28,6 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
