@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: GridexX
 minimal_mistakes_skin: dark
-search: true
+search: false
 baseurl: /open-sources-contribution/
 # Build settings
 markdown: kramdown
@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GridexX"
     - label: "Email"
-      icon: "fa-solid fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:arsene582@gmail.com"
 
 footer:
@@ -78,7 +78,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GridexX"
     - label: "Email"
-      icon: "fa-solid fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:arsene582@gmail.com"
 
 defaults:
